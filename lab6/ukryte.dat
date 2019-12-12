@@ -1,0 +1,110 @@
+327156060      1 -rw-r--r--   1 jkos     domain users      655 paź  1 09:48 /home/jkos/.profile
+327156064      4 -rw-r--r--   1 jkos     domain users     3771 paź  1 09:48 /home/jkos/.bashrc
+423625585      0 drwxr-xr-x   4 jkos     domain users        0 paź 12 12:44 /home/jkos/mail/.imap
+327160910      1 -rw-r--r--   1 jkos     domain users       18 paź 12 12:44 /home/jkos/mail/.subscriptions
+327156077      1 -rw-r--r--   1 jkos     domain users      220 paź  1 09:48 /home/jkos/.bash_logout
+449317168      0 drwx------   3 jkos     domain users        0 paź  7 14:25 /home/jkos/.gnupg
+327157896      1 -rw-------   1 jkos     domain users      341 lis 15 08:38 /home/jkos/.Xauthority
+327161785      1 lrwxrwxrwx   1 jkos     domain users        9 lis 15 08:38 /home/jkos/.xsession-errors -> /dev/null
+327158324      1 lrwxrwxrwx   1 jkos     domain users       16 lis 15 08:38 /home/jkos/.cache -> /tmp/jkos/.cache
+452992007      0 drwx------  14 jkos     domain users        0 paź 18 08:35 /home/jkos/.config
+327161845      1 -rw-------   1 jkos     domain users      688 lis 15 08:38 /home/jkos/.ICEauthority
+454435417      0 drwx------   3 jkos     domain users        0 paź  7 14:25 /home/jkos/.local
+465962428      0 drwx------   3 jkos     domain users        0 paź  7 14:29 /home/jkos/.thumbnails
+475399973      0 drwx------   5 jkos     domain users        0 paź  7 14:29 /home/jkos/.mozilla
+477366391      0 -rw-------   1 jkos     domain users        0 paź 17 12:07 /home/jkos/.mozilla/firefox/ywm211je.default-release/.parentlock
+478283910      1 -rw-------   1 jkos     domain users       42 paź  7 14:29 /home/jkos/.mozilla/firefox/ywm211je.default-release/storage/permanent/chrome/.metadata-v2
+480513400      1 -rw-------   1 jkos     domain users        8 paź  8 09:59 /home/jkos/.mozilla/firefox/ywm211je.default-release/storage/default/https+++www.quora.com/cache/.padding
+480122378      1 -rw-------   1 jkos     domain users       60 paź  8 10:00 /home/jkos/.mozilla/firefox/ywm211je.default-release/storage/default/https+++www.quora.com/.metadata-v2
+477366413      0 -rw-------   1 jkos     domain users        0 paź  8 11:00 /home/jkos/.mozilla/firefox/5da5bnzi.default/.parentlock
+478157546      1 -rw-------   1 jkos     domain users       42 paź  8 09:33 /home/jkos/.mozilla/firefox/5da5bnzi.default/storage/permanent/chrome/.metadata-v2
+475402108      0 -rw-------   1 jkos     domain users        0 paź 24 12:17 /home/jkos/.mozilla/firefox/egr56buw.default-release-1/.parentlock
+475926453      1 -rw-------   1 jkos     domain users       29 paź 17 12:07 /home/jkos/.mozilla/firefox/egr56buw.default-release-1/storage/permanent/chrome/.metadata
+475926460      1 -rw-------   1 jkos     domain users       42 paź 17 12:07 /home/jkos/.mozilla/firefox/egr56buw.default-release-1/storage/permanent/chrome/.metadata-v2
+478024419      1 -rw-------   1 jkos     domain users      105 paź 17 12:07 /home/jkos/.mozilla/firefox/egr56buw.default-release-1/storage/default/moz-extension+++08460e79-789d-4379-bb46-bd573059d83f^userContextId=4294967295/.metadata
+478024420      1 -rw-------   1 jkos     domain users      193 paź 17 14:10 /home/jkos/.mozilla/firefox/egr56buw.default-release-1/storage/default/moz-extension+++08460e79-789d-4379-bb46-bd573059d83f^userContextId=4294967295/.metadata-v2
+  3147385      0 -rw-------   1 jkos     domain users        0 lis  7 12:03 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/.parentlock
+125044813      1 -rw-------   1 jkos     domain users       29 paź 24 12:17 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/permanent/chrome/.metadata
+125044815      1 -rw-------   1 jkos     domain users       42 paź 24 12:17 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/permanent/chrome/.metadata-v2
+125044889      1 -rw-------   1 jkos     domain users      105 paź 24 12:17 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/moz-extension+++5f54e515-e143-4f79-a912-3cec41566fb7^userContextId=4294967295/.metadata
+125044890      1 -rw-------   1 jkos     domain users      193 paź 24 14:14 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/moz-extension+++5f54e515-e143-4f79-a912-3cec41566fb7^userContextId=4294967295/.metadata-v2
+125047249      1 -rw-------   1 jkos     domain users       49 paź 24 14:09 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++www.google.com/.metadata
+125047251      1 -rw-------   1 jkos     domain users       62 paź 25 09:59 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++www.google.com/.metadata-v2
+125045636      1 -rw-------   1 jkos     domain users       60 paź 25 09:59 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++mdl.ug.edu.pl/.metadata-v2
+128720666      1 -rw-------   1 jkos     domain users       63 paź 25 08:36 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/http+++www.soisk-me.pl/.metadata-v2
+128721787      1 -rw-------   1 jkos     domain users       64 paź 25 09:59 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++www.youtube.com/.metadata-v2
+128721824      1 -rw-------   1 jkos     domain users       65 paź 25 08:41 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/http+++www.informit.com/.metadata-v2
+128853154      1 -rw-------   1 jkos     domain users       76 paź 25 09:59 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++www.geeksforgeeks.org/.metadata-v2
+128853218      1 -rw-------   1 jkos     domain users       62 paź 25 09:59 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++www.guru99.com/.metadata-v2
+129632239      1 -rw-------   1 jkos     domain users       68 paź 25 09:50 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++www.cyberciti.biz/.metadata-v2
+129762869      1 -rw-------   1 jkos     domain users       72 paź 25 09:48 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++stackoverflow.com/.metadata-v2
+129762816      1 -rw-------   1 jkos     domain users       77 paź 25 09:37 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++unix.stackexchange.com/.metadata-v2
+130683413      1 -rw-------   1 jkos     domain users       70 paź 25 09:37 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++battle-cats.fandom.com/.metadata-v2
+130683464      1 -rw-------   1 jkos     domain users       84 paź 25 09:59 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++tpc.googlesyndication.com/.metadata-v2
+130683470      1 -rw-------   1 jkos     domain users       70 paź 25 09:18 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++www.howtoforge.com/.metadata-v2
+131076353      1 -rw-------   1 jkos     domain users       68 paź 25 09:59 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++linuxconfig.org/.metadata-v2
+131076376      1 -rw-------   1 jkos     domain users        8 paź 25 09:57 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++www.reddit.com/cache/.padding
+131076370      1 -rw-------   1 jkos     domain users       62 paź 25 09:59 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++www.reddit.com/.metadata-v2
+131076452      1 -rw-------   1 jkos     domain users       66 paź 25 09:59 /home/jkos/.mozilla/firefox/u24fuyxu.default-release-2/storage/default/https+++discordapp.com/.metadata-v2
+481953219      0 -rw-------   1 jkos     domain users        0 lis 15 08:39 /home/jkos/.mozilla/firefox/p1buhnbs.default-release-3/.parentlock
+670181292      1 -rw-------   1 jkos     domain users       29 lis  7 12:02 /home/jkos/.mozilla/firefox/p1buhnbs.default-release-3/storage/permanent/chrome/.metadata
+670181293      1 -rw-------   1 jkos     domain users       42 lis  7 12:02 /home/jkos/.mozilla/firefox/p1buhnbs.default-release-3/storage/permanent/chrome/.metadata-v2
+  2756221      1 -rw-------   1 jkos     domain users      105 lis  7 12:02 /home/jkos/.mozilla/firefox/p1buhnbs.default-release-3/storage/default/moz-extension+++371d46bd-0789-44ed-bdd0-4e1d6715c2d0^userContextId=4294967295/.metadata
+  2756222      1 -rw-------   1 jkos     domain users      193 lis 14 14:14 /home/jkos/.mozilla/firefox/p1buhnbs.default-release-3/storage/default/moz-extension+++371d46bd-0789-44ed-bdd0-4e1d6715c2d0^userContextId=4294967295/.metadata-v2
+  3544645      1 -rw-------   1 jkos     domain users        8 lis 14 13:08 /home/jkos/.mozilla/firefox/p1buhnbs.default-release-3/storage/default/https+++www.reddit.com/cache/.padding
+  3544640      1 -rw-------   1 jkos     domain users       49 lis 14 13:08 /home/jkos/.mozilla/firefox/p1buhnbs.default-release-3/storage/default/https+++www.reddit.com/.metadata
+  3544641      1 -rw-------   1 jkos     domain users       62 lis 14 13:08 /home/jkos/.mozilla/firefox/p1buhnbs.default-release-3/storage/default/https+++www.reddit.com/.metadata-v2
+  4459498      1 -rw-------   1 jkos     domain users        8 lis 14 13:08 /home/jkos/.mozilla/firefox/p1buhnbs.default-release-3/storage/default/https+++www.youtube.com/cache/.padding
+  4333529      1 -rw-------   1 jkos     domain users       51 lis 14 13:08 /home/jkos/.mozilla/firefox/p1buhnbs.default-release-3/storage/default/https+++www.youtube.com/.metadata
+  4333530      1 -rw-------   1 jkos     domain users       64 lis 15 08:59 /home/jkos/.mozilla/firefox/p1buhnbs.default-release-3/storage/default/https+++www.youtube.com/.metadata-v2
+  2235652      1 -rw-------   1 jkos     domain users       62 lis 15 08:47 /home/jkos/.mozilla/firefox/p1buhnbs.default-release-3/storage/default/https+++www.google.com/.metadata-v2
+631639360      0 drwx------   4 jkos     domain users        0 paź  8 09:33 /home/jkos/snap/vscode/common/.cache
+124913562      0 drwx------   3 jkos     domain users        0 lis 14 12:31 /home/jkos/snap/code/common/.cache
+629934646      0 drwx------   3 jkos     domain users        0 paź  7 14:34 /home/jkos/.pki
+630849654      0 drwx------   2 jkos     domain users        0 paź  7 15:16 /home/jkos/.ssh
+327158083      8 -rw-------   1 jkos     domain users     8127 lis 14 14:14 /home/jkos/.bash_history
+327161808      1 lrwxrwxrwx   1 jkos     domain users        9 lis 14 12:28 /home/jkos/.xsession-errors.old -> /dev/null
+631767688      0 drwx------   3 jkos     domain users        0 paź  8 09:33 /home/jkos/.vscode
+108005668      3 -rw-------   1 jkos     domain users     2515 paź 24 12:05 /home/jkos/.vscode/extensions/danielpinto8zz6.c-cpp-compile-run-1.0.5/.vsixmanifest
+124913691      0 drwx------   3 jkos     domain users        0 paź 24 12:05 /home/jkos/.vscode/extensions/danielpinto8zz6.c-cpp-compile-run-1.0.5/.github
+124913758      2 -rw-------   1 jkos     domain users     1160 paź 24 12:05 /home/jkos/.vscode/extensions/danielpinto8zz6.c-cpp-compile-run-1.0.5/node_modules/color-name/.eslintrc.json
+124913759      2 -rw-------   1 jkos     domain users     1388 paź 24 12:05 /home/jkos/.vscode/extensions/danielpinto8zz6.c-cpp-compile-run-1.0.5/node_modules/color-name/.npmignore
+124913788      1 -rw-------   1 jkos     domain users       46 paź 24 12:05 /home/jkos/.vscode/extensions/danielpinto8zz6.c-cpp-compile-run-1.0.5/node_modules/debug/.coveralls.yml
+124913789      1 -rw-------   1 jkos     domain users      180 paź 24 12:05 /home/jkos/.vscode/extensions/danielpinto8zz6.c-cpp-compile-run-1.0.5/node_modules/debug/.eslintrc
+124913790      1 -rw-------   1 jkos     domain users       72 paź 24 12:05 /home/jkos/.vscode/extensions/danielpinto8zz6.c-cpp-compile-run-1.0.5/node_modules/debug/.npmignore
+124913791      1 -rw-------   1 jkos     domain users      140 paź 24 12:05 /home/jkos/.vscode/extensions/danielpinto8zz6.c-cpp-compile-run-1.0.5/node_modules/debug/.travis.yml
+124913813      1 -rw-------   1 jkos     domain users      222 paź 24 12:05 /home/jkos/.vscode/extensions/danielpinto8zz6.c-cpp-compile-run-1.0.5/node_modules/lookpath/.eslintrc.js
+632294911      3 -rw-------   1 jkos     domain users     2817 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/.vsixmanifest
+643044610      1 -rw-------   1 jkos     domain users      292 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/http-proxy-agent/.travis.yml
+643698680      1 -rw-------   1 jkos     domain users       46 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/http-proxy-agent/node_modules/debug/.coveralls.yml
+643698681      1 -rw-------   1 jkos     domain users      219 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/http-proxy-agent/node_modules/debug/.eslintrc
+643698682      1 -rw-------   1 jkos     domain users       72 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/http-proxy-agent/node_modules/debug/.npmignore
+643698683      1 -rw-------   1 jkos     domain users      185 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/http-proxy-agent/node_modules/debug/.travis.yml
+643176557      1 -rw-------   1 jkos     domain users      309 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/agent-base/.travis.yml
+643969142      1 -rw-------   1 jkos     domain users      715 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/https-proxy-agent/.editorconfig
+643969143      3 -rw-------   1 jkos     domain users     2935 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/https-proxy-agent/.eslintrc.js
+645141725      1 -rw-------   1 jkos     domain users       48 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/balanced-match/.npmignore
+645274951      1 -rw-------   1 jkos     domain users       43 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/concat-map/.travis.yml
+645403744      1 -rw-------   1 jkos     domain users      116 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/mkdirp/.travis.yml
+645799696      1 -rw-------   1 jkos     domain users       48 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/mkdirp/node_modules/minimist/.travis.yml
+646058979      1 -rw-------   1 jkos     domain users       43 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/plist/.jshintrc
+646058980      1 -rw-------   1 jkos     domain users      990 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/plist/.travis.yml
+646452974      1 -rw-------   1 jkos     domain users       35 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/xmlbuilder/.npmignore
+646587168      1 -rw-------   1 jkos     domain users       37 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/xmldom/.npmignore
+646587169      1 -rw-------   1 jkos     domain users      548 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/xmldom/.travis.yml
+648687518      1 -rw-------   1 jkos     domain users      412 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/async-hook-jl/.eslintrc
+648687519      1 -rw-------   1 jkos     domain users       19 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/async-hook-jl/.npmignore
+648687520      1 -rw-------   1 jkos     domain users       89 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/async-hook-jl/.travis.yml
+648948767      1 -rw-------   1 jkos     domain users       43 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/stack-chain/.npmignore
+648948768      1 -rw-------   1 jkos     domain users       82 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/stack-chain/.travis.yml
+649074315      1 -rw-------   1 jkos     domain users       71 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/emitter-listener/.travis.yml
+649211106      1 -rw-------   1 jkos     domain users       71 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/shimmer/.travis.yml
+649332162      1 -rw-------   1 jkos     domain users      422 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/continuation-local-storage/.eslintrc
+649332163      1 -rw-------   1 jkos     domain users      119 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/continuation-local-storage/.travis.yml
+649468585      1 -rw-------   1 jkos     domain users      219 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/async-listener/.travis.yml
+651563618      1 -rw-------   1 jkos     domain users       24 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/fd-slicer/.npmignore
+651563623      1 -rw-------   1 jkos     domain users      176 lis 14 12:17 /home/jkos/.vscode/extensions/ms-vscode.cpptools-0.26.2-insiders/node_modules/fd-slicer/.travis.yml
+429524493      0 drwx------   2 jkos     domain users        0 paź 12 12:49 /home/jkos/.spamassassin
+327161871      6 -rw-------   1 jkos     domain users     6044 lis 15 09:40 /home/jkos/.viminfo
+327423689      0 drwx------   3 jkos     domain users        0 paź 25 09:13 /home/jkos/.emacs.d
+327161572      1 -rw-------   1 jkos     domain users       38 lis  7 12:12 /home/jkos/.dmrc
